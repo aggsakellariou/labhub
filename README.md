@@ -34,7 +34,7 @@ LabHub is a comprehensive laboratory management system built with Ruby on Rails.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/gvasss/labhub.git
+    git clone [https://github.com/gvasss/labhub.git](https://github.com/aggsakellariou/labhub)
     cd labhub-main
     ```
 
